@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Area_Of_Circle_ANN_Backprop", "Area_Of_Circle_ANN_Backprop.vcproj", "{5D0B3326-535F-4DBA-9E34-DDEF8A7A3573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0B3326-535F-4DBA-9E34-DDEF8A7A3573}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D0B3326-535F-4DBA-9E34-DDEF8A7A3573}.Debug|Win32.Build.0 = Debug|Win32
+		{5D0B3326-535F-4DBA-9E34-DDEF8A7A3573}.Release|Win32.ActiveCfg = Release|Win32
+		{5D0B3326-535F-4DBA-9E34-DDEF8A7A3573}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

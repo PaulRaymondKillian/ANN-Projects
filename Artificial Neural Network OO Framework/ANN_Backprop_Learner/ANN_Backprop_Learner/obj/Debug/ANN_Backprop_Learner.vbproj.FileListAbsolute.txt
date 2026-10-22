@@ -1,0 +1,61 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.Form1.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.frmLoadTrainingData.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.dll
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Network.dll
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Network.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner\bin\Debug\ANN_Network.xml
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.exe
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.xml
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.exe
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.xml
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.dll
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Network.dll
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Run_Network.exe
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Run_Network.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Run_Network.xml
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.xml
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Network.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Network.xml
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ResolveAssemblyReference.cache
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.Form1.resources
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.frmLoadTrainingData.resources
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.Resources.resources
+D:\Artificial Neural Network Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.exe.manifest
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.application
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop_Learner.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Network.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Run_Network.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Run_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Run_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Backprop.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\bin\Debug\ANN_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.Form1.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.frmLoadTrainingData.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.Resources.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.exe.manifest
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner\ANN_Backprop_Learner\obj\Debug\ANN_Backprop_Learner.application

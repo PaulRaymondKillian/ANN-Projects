@@ -1,0 +1,37 @@
+The Traveling Salesman Project is an unfinished project. It is currently still in development, but is on hold due to time constraints for work on other projects.
+
+
+Project:
+Traveling Salesman Near-Optimal Emperical Solution Framework Project
+
+Overview:
+The goal of this project was to develop a object oriented, extensible, framework that can be used to develop a "simple" algorithm that could produce a near-optimal solution to the Traveling Salesman problem with an processing O-Notation of less than O(c^n), given a set of points on a grid and a desire to reach all of them with least effort. This project is entirely based on emperical analysis and was never intended to include mathematical proofs.
+
+Classes:
+Grid - Primary Object, Container for City objects and related methods
+City - Represents a city at a specific cartesian (x,y) location
+Segment - Represents the grouping of 2 cities, as well as distance methods
+Path - Represents the Path being built from city to city to hold the resulting solution.
+CalcBestPathMethod1 - Given a grid containing cities, this object analyzes the grid and produces a Path object that contains the cities, in order, for the near-optimal path found by the algorithm.
+
+Note: The CalcBestPathMethod1 is an independant class because it is my intention for this object to not be a member of the Grid itself, but rather a separate independant entity. It would not be difficult at all to modify the program so that CalcBestPathMethod1 was a function within the Grid object, rather than its own object. In fact, I may do just if I continue work on the project in the future. 
+
+
+Algorithm Theory:
+This algorithm is still in development and is being refined by emperical analysis.
+
+First, find the lowest weighted path segment on the graph. Second, find the path segments not adjacent to the previous selected lowest path segment but is adjacent to a vertex adjacent to the previous selected lowest path segment. Select the "path-set" to the previous selected lowest path-segment of lowest value.
+
+Note: The above algorithm will never always yield the optimal path because it always includes the lowest path segment in its best path calculation. However, the purpose of this project is to develop a framework that can be used to develop emperical algorithms in the hopes of discovering a very good solution generator; not the best path calculation. An optimum best path algorithm is a secondary project to be an extension of this project.
+
+
+How It Works:
+First, you must create a Grid object. This Grid object is used to hold the cities that you want to visit. There is an "Grid.addCity(CityNm,XLoc,YLoc)" method to be used to add cities to the Grid. All that is required is knowing the X,Y location of the cities and the distances will be calculated automatically by using the "City.Distance(OtherCity)" function that will return the distance value between those two cities in regular cartesian units.
+
+When you have all cities added to your Grid object, you can then create a CalcBestPathMethod1 object, using your Grid object as the constructor parameter, to calculate the best path given the algorithm being used in that class. The CalcBestPathMethod1 object has a public Path object that contains a list of the cities, in order, for the near-optimal path calculated. You may also create your own path object and use the "Path.nextCity(Grid.City)" method to add cities to your manually constructed path. Manually constructed paths can be used to enable a brute force method of retrieving the actual optimal path, and comparing it to the path from the CalcBestPathMethod1 algorithm. You may check the distance value of the path by calling the "Path.pathValue" function and the "Path.pathRoute" for the city-to-city route the path takes. You may also use the "Path.pathValid" function to check if the path is a valid path; Valid paths include checking to ensure the path visits each city once and only once.
+
+Why the CalcBestMethod1 Object?
+
+The purpose of this separate object was to keep the Grid object fairly clean. Anyone can develop and add their own Best Methods in an iterative fasion to the source code. I felt it was best to keep this added logic external from the Grid object because it can become complex and messy. It also allows others to create their own Best Path objects even if they do not have the source code, but do have the Traveling Salesman DLL; enabling the program to be extensible which would not be possible if it were a member of the Grid object. (Well, it would be still 'possible', but the architecture would become clunky) Furthermore, although it may still seem that the "Best Path" should be a member of the Grid object, I felt the actual logic and idea of a best path is actually outside the boundaries of what the Grid should be; which is merely an elegant and simple container for City objects. The Grid object itself does not, and should not, perform the complex processes of calculating near-optimal paths.
+
+ 

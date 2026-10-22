@@ -1,0 +1,61 @@
+Circular Number Sets:
+
+First, I should describe the basis of the numeric structures that the Hippocampus Emulator is designed to learn and recall. If we have a set of ordered numbers, we want our program to recall the same memory identifier for the same generic memory, regardless of where we start looking at the set of ordered numbers. You can imagine these input sets as a circular linked list of numbers. They are all in a specific order, the numbers can be repeated, but it does not matter where we start in the sequence as long as we go through the entire sequence. We want the same memory to be returned from our program regardless of where we start in that ordered sequence of numbers.
+
+For example: The image below represents a circular number set that contains 5 numbers. If we were to input this number set into the Hippocampus Emulator, we would want it to return the same memory identifier regardless whether we inputted the sets: (1,2,3,2,5) , (2,3,2,5,1) , (3,2,5,1,2) , (2,5,1,2,3) , (5,1,2,3,2). All of those ordered number sets should be considered the same memory.
+
+[Display Image CircularNumberSets.png]
+
+
+Hippocampus Tree:
+
+The structure used to store our memories is called a Hippocampus Tree, HTree for short. This is an N-ary tree of Hippocampus Nodes, HNodes for short. The width our our tree is dependant upon the variety of distinct numbers allowed in our number sets and the height is dependant upon the length of the number sets memorized.
+
+Learning Memories:
+
+The Hippocampus Emulator learns memories with a Big-O Notation of O(m^2) where "m" is length of the memory to be memorized. In this program, the circular number sequences are the memories we want to remember and identify. For an inputted number sequence that we want to memorize, we actually import every possible ordering of that sequence into our tree. If the program is trying to memorize the number sequence (1,2,3,4) it will build into our tree all 4 possible combinations: (1,2,3,4) , (2,3,4,1) , (3,4,1,2) , (4,1,2,3). We add these number sequences into the HTree by starting at the root HNode of the tree, and adding new nodes along the height of the HTree. We would start with the first sequence ordering, add its nodes to the tree, and the continue with the rest of the ordered sequences until we exhausted all possible ordering sequences.
+
+For example, if we started with an new HTree and added the first sequence ordering (1,2,3,4) the tree would look like:
+
+[Display HTree Image 1]
+
+You can see that we started at the root, and then added the HNodes 1,2,3,4 along the height of the tree in an ordered fashion so that you can only reach the last node if we climbed up the tree in the order of the sequence imported. Now, lets import the rest of the ordered sequences available for (1,2,3,4):
+
+[Display HTree Image 2]
+
+We now have an HTree that learned the circular number sequence (1,2,3,4). As of 7/12/2010, the memory identifier for this particular set of memories is stored in the leaf nodes of the HTree. When we recall a memory, we climb the tree using the number sequence given and if that path in the tree exists, that memory is associated with the leaf HNode of that path up the HTree. In our graphic above, we portrayed the memory identifier by coloring the leaf nodes of that memory the color blue. In the the program itself, the memory identifiers are a shared incremented integer value.
+
+Now it is time to memorize a second memory and see how that affect our HTree. The second circular number sequence that we are going to memorize is (3,1,2,4,5). So, lets first memorize that first sequence into our HTree and see what it looks like:
+
+[Display HTree Image 3]
+
+First, we can see the this new memory is given the color green as its memory identifier. We can also see that the previous memory and the current memory share an HNode on the HTree. For this first sequence, the HNode '3' is shared on the first level of the tree. From there, it branches out to its own unique path up the tree. We use the leaf node as to identify the specific memory because the exact path taken up the HTree to the leaf HNode will always be unique for that specific memory. No leaf node will share 2 memories, because for that to happen we would have inputted the same circular number sequence twice as two different memories. This method leaf-node memory identification does have its faults which will be discussed at a later time.
+
+We have already memorized the first sequence of the circular number set (3,1,2,4,5), now lets memorize the remaining ordered sequences: (1,2,4,5,3) , (2,4,5,3,1) , (4,5,3,1,2) , (5,3,1,2,4):
+
+[Display HTree Image 4]
+
+We can see that the HTree is much bigger, and some of the memories share a partial similar path up the HTree. This HTree can be used to store many circular number sequences, and sequences of great length. The HTree, however, may get very large and complex. If that is the case, why is the design of the HTree and memorization such a potentially large object? That will be explained in the discussion regarding Recollection.
+
+Recalling Memories:
+
+What is the benefit of such a potentially large HTree full of memories? That benefit is simple; While the memorization of a memory may have a Big-O notation of O(m^2) where "m" is the length of the sequence, the look-up of a memory has a Big-O notation of O(m). The benefit of this architecture is that although it is slow learning a memory, it is very quick recalling that memory. This is precisely what you want if you are using the Hippocampus Emulator logic with a machine vision application, because you want to quickly recall images from memory and right away know whether an object is recognized, and what that object is.
+
+Recalling a memory is very simple. Lets say you input the number sequence (2,4,5,3,1) and you want to know if you have a memory of that sequence, and if so, what it is. Well, the Hippocampus Emulator simply climbs up the tree in order of the inputted sequence:
+
+[Display HTree Image 5]
+
+We can see that the memory does exist in the HTree, and it is associated with the Green memory identifer. Once again, the remember the Hippocampus Emulator identifiers memories with a shared incrementing integer value, but for the graphics we will use colors.
+
+So, recalling a memory that is known is quick and easy. Howwever, how do we know if a memory exists? That is simple as well. Suppose we want to see if the sequence (2,4,5,1,4) is known in our HTree. Well, we will simply traverse the HTree again. While going through the sequence, if we reach an HNode where the next HNode does not exist, we know that the inputted memory does not exist in our HTree and therefore is not known.
+
+[Display HTree Image 6]
+
+When we are given an inputted sequence and it turns out to not be a known memory, we can often do two things. We can either tell the calling program that this memory is not known, or we can memorize the new sequence, give it a name, and let the calling program do whatever it wants from then on. In fact, that logic is built into our interface layer, the HLayer object. The HLayer, and subsequently the HLayerSecondary because it inherits HLayer, has a method called Memorize. The Memorize function takes in a number sequence parameter and returns an integer; the memory's identifier. First, the Memorize function checks if the sequence is a known memory. If it is, it returns that memory's identifier. If it is not, it memorizes that sequence and outputs the new memory's identifier. Regardless of whether the sequence was known or not beforehand, the calling program is given an integer for which it is able to associate with that memory from henceforth.
+
+The other main function in the HLayer object, the one that would primarily be used, is the Think function. The Think function acts similarly to the Memorize function except that it only does a look-up of the number sequence inputted. When you call the Think function, you input the number sequence and in return you are given an HThought object.
+
+What is an HThought Object?
+
+HThought objects are objects returned from the Think function of the HLayer object. They are used by the calling program to analyze the memory the Hippocampus Emulator just "thought" about. The HThought objects give you information such as whether that number sequence inputted was known, what its name was, and information about the Recollections found in the HTree. Often times, a HThought will only yield 1 or 0 recollections. However, robustness may be added to the Hippocampus Emulator by allowing number sequences similar to the inputted number sequence to be looked up. The program could then include similar memories to the sequence inputted allow the calling program to use the information to make relative associations as it sees fit.
+

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dynamic_ANN", "Dynamic_ANN\Dynamic_ANN.vbproj", "{0F4362BA-48E4-45B7-9EEA-248D92A01366}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestHarness", "TestHarness\TestHarness.vbproj", "{34896D98-DC3F-465E-92F3-2EC852782DBC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0F4362BA-48E4-45B7-9EEA-248D92A01366}.Debug.ActiveCfg = Debug|.NET
+		{0F4362BA-48E4-45B7-9EEA-248D92A01366}.Debug.Build.0 = Debug|.NET
+		{0F4362BA-48E4-45B7-9EEA-248D92A01366}.Release.ActiveCfg = Release|.NET
+		{0F4362BA-48E4-45B7-9EEA-248D92A01366}.Release.Build.0 = Release|.NET
+		{34896D98-DC3F-465E-92F3-2EC852782DBC}.Debug.ActiveCfg = Debug|.NET
+		{34896D98-DC3F-465E-92F3-2EC852782DBC}.Debug.Build.0 = Debug|.NET
+		{34896D98-DC3F-465E-92F3-2EC852782DBC}.Release.ActiveCfg = Release|.NET
+		{34896D98-DC3F-465E-92F3-2EC852782DBC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

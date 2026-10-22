@@ -1,0 +1,28 @@
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Backprop.dll
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Backprop.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Backprop.xml
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Arch.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Arch.xml
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ResolveAssemblyReference.cache
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.Resources.resources
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.vbproj.GenerateResource.Cache
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.dll
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.xml
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Network.dll
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Network.pdb
+D:\Artificial Neural Network Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Backprop.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Backprop.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Backprop.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Network.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Arch.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Arch.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\bin\Debug\ANN_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.Resources.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop\ANN_Backprop\obj\Debug\ANN_Backprop.pdb

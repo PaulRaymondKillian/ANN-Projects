@@ -1,0 +1,47 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\bin\Debug\ANN_Viewer.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\bin\Debug\ANN_Viewer.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\bin\Debug\ANN_Viewer.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\obj\Debug\ANN_Viewer.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\obj\Debug\ANN_Viewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\obj\Debug\ANN_Viewer.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\obj\Debug\ANN_Viewer.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Viewer\obj\Debug\ANN_Viewer.pdb
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.exe
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.xml
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.pdb
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Viewer.exe
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Viewer.pdb
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Viewer.xml
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ResolveAssemblyReference.cache
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.Resources.resources
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.vbproj.GenerateResource.Cache
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Arch.dll
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Arch.pdb
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Arch.xml
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.Form1.resources
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmSetInputValues.resources
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmSetWeights.resources
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmMessage.resources
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmModifyGUI.resources
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.AboutBox1.resources
+D:\Artificial Neural Network Framework\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmCreateNetwork.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.exe
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.xml
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.pdb
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Viewer.exe
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Viewer.pdb
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Viewer.xml
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Arch.dll
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Arch.pdb
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\bin\Debug\ANN_Arch.xml
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.AboutBox1.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.Form1.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmCreateNetwork.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmMessage.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmModifyGUI.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmSetInputValues.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.frmSetWeights.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.Resources.resources
+C:\Killian Intelligence Systems\old\_Obsolete\ANN_Viewer\ANN_Viewer\obj\Debug\ANN_Viewer.vbproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.dll
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.dll
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.pdb

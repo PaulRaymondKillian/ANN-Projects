@@ -1,0 +1,11 @@
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\bin\Debug\ANN_Hebbian.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\bin\Debug\ANN_Hebbian.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\bin\Debug\ANN_Hebbian.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\bin\Debug\ANN_Network.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\obj\Debug\ANN_Hebbian.Resources.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\obj\Debug\GenerateResource.read.1.tlog
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\obj\Debug\GenerateResource.write.1.tlog
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\obj\Debug\ANN_Hebbian.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\obj\Debug\ANN_Hebbian.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Hebbian\ANN_Hebbian\obj\Debug\ANN_Hebbian.pdb

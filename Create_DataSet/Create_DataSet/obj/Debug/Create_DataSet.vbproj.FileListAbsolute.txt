@@ -1,0 +1,18 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\bin\Debug\Create_DataSet.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\bin\Debug\Create_DataSet.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\bin\Debug\Create_DataSet.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\obj\Debug\Create_DataSet.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\obj\Debug\Create_DataSet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\obj\Debug\Create_DataSet.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\obj\Debug\Create_DataSet.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Create_DataSet\obj\Debug\Create_DataSet.pdb
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\obj\Debug\Create_DataSet.exe
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\obj\Debug\Create_DataSet.xml
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\obj\Debug\Create_DataSet.pdb
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\bin\Debug\Create_DataSet.exe
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\bin\Debug\Create_DataSet.pdb
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\bin\Debug\Create_DataSet.xml
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\obj\Debug\ResolveAssemblyReference.cache
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\obj\Debug\Create_DataSet.Resources.resources
+D:\ANN_Fast_Backprop\Create_DataSet\Create_DataSet\obj\Debug\Create_DataSet.vbproj.GenerateResource.Cache
